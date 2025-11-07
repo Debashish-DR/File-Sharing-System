@@ -1,0 +1,22 @@
+# Binaries
+server
+client
+
+# Build artifacts
+*.o
+*.out
+
+# Local folders (runtime data)
+server_uploads/*
+client_downloads/*
+logs/*
+
+# Certificates (generated locally)
+server.key
+server.crt
+
+# OS junk
+.DS_Store
+Thumbs.db
+EOF
+
