@@ -159,13 +159,6 @@ This project is intended for educational and demonstration purposes only.
 All rights reserved © 2025.
 
 ---
-
-## 🧠 Optional – Add GitHub Badges
-You can add these just below the title for a professional look:
-```markdown
-![C++](https://img.shields.io/badge/Language-C++-blue)
-![OpenSSL](https://img.shields.io/badge/Security-TLS%201.3-green)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL-lightgrey)
-![Status](https://img.shields.io/badge/Status-Final%20Submission-success)
 ```
+
 
