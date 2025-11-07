@@ -1,5 +1,10 @@
 # 🔒 Secure File Sharing Server & Client (TLS 1.3)
 
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![OpenSSL](https://img.shields.io/badge/Security-TLS%201.3-green)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL-lightgrey)
+![Status](https://img.shields.io/badge/Status-Final%20Submission-success)
+
 This project is a **secure file sharing system** developed in **C++** using **POSIX sockets** and **OpenSSL (TLS 1.3)**.  
 It demonstrates secure client–server communication with encryption, authentication, and safe file transfer.
 
@@ -163,3 +168,4 @@ You can add these just below the title for a professional look:
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Final%20Submission-success)
 ```
+
